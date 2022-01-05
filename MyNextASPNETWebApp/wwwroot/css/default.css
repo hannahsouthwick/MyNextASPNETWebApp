@@ -1,0 +1,22 @@
+﻿body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+label {
+    font-size: 20px;
+    color: cadetblue;
+    width: 150px;
+    display: inline-block;
+}
+
+text {
+    font-size: 20px;
+}
+
+li {
+    list-style-type: none;
+}
+/*
+ol {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}*/
